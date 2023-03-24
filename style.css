@@ -1,0 +1,14 @@
+input[type="number"] {
+    width: 50px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .main{
+    padding:100px;
+    
+  
+  }
